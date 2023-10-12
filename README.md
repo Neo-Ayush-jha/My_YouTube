@@ -1,4 +1,5 @@
 # React YouTube Clone with RapidAPI Integration
+![YouTube Clone Preview](https://example.com/your-image-url.jpg)
 
 ## Project Overview
 
