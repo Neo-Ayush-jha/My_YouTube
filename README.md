@@ -1,5 +1,5 @@
 # React YouTube Clone with RapidAPI Integration
-![YouTube Clone Preview](https://example.com/your-image-url.jpg)
+![YouTube Clone Preview](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_(2015-2017).svg/1280px-Logo_of_YouTube_(2015-2017).svg.png)
 
 ## Project Overview
 
