@@ -9,7 +9,7 @@ export const fetchDataFromApi = async (url) => {
       gl: 'US'
     },
     headers: {
-      'X-RapidAPI-Key': '79eef92ad3msh2574463fd0ea9b2p1e7024jsn6ef70d0a6bd1',
+      'X-RapidAPI-Key': '6935b51365msh7f916fc704dfd16p147081jsncf112054c189',
       // "X-RapidAPI-Key":process.env.REACT_APP_API_KEY,
       'X-RapidAPI-Host': 'youtube138.p.rapidapi.com'
     }
